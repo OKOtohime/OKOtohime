@@ -6,11 +6,11 @@
 [![Tools](https://skillicons.dev/icons?i=vscodium,androidstudio,idea,clion,pycharm)](https://skillicons.dev)
 [![OS](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OKOtohime&layout=compact&theme=cobalt&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=okotohime&layout=compact&theme=cobalt&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--![]( https://visitor-badge.glitch.me/badge?page_id=OKOtohime.github.com)-->
 
-![OKOtohime's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OKOtohime&theme=cobalt&range=last_year&layout=compact&langs_count=6&hide=Jupyter,Text,Other,Git%20Config,RPMSpec,Groovy,Properties)
+![OKOtohime's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=okotohime&theme=cobalt&range=last_year&layout=compact&langs_count=6&hide=Jupyter,Text,Other,Git%20Config,RPMSpec,Groovy,Properties)
 
 <!--[![Monomux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Monomux&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 
