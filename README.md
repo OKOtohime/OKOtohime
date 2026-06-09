@@ -1,19 +1,50 @@
+# Hi there 👋
+
+I'm **OKOtohime**.
+
+* 🦀 Rust enthusiast
+* ⚙️ Systems Programming
+* 🖥️ Linux Desktop User
+* 📦 Open Source Contributor
+* 📧 okotohime@outlook.com
+
+---
+
+## 📊 GitHub Metrics
+
 ![Metrics](/github-metrics.svg)
 
-<!--[![OKOtohime's GitHub stats](https://github-readme-stats.vercel.app/api?username=OKOtohime&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
+---
 
-[![My Skills](https://skillicons.dev/icons?i=git,c,cpp,python,rust,julia,java,qt,docker)](https://skillicons.dev)
+## 🛠 Tech Stack
 
-[![Tools](https://skillicons.dev/icons?i=vscodium,androidstudio,idea,clion,pycharm)](https://skillicons.dev)
+### Languages & Frameworks
 
-[![OS](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=git,rust,cpp,python,julia,java,qt,docker\&perline=9)](https://skillicons.dev)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=okotohime&layout=compact&theme=cobalt&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+### Development Environment
 
-<!--![]( https://visitor-badge.glitch.me/badge?page_id=OKOtohime.github.com)-->
+[![Development Environment](https://skillicons.dev/icons?i=linux,vscodium,androidstudio,idea,clion,pycharm\&perline=7)](https://skillicons.dev)
 
-![OKOtohime's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=okotohime&theme=cobalt&range=last_year&layout=compact&langs_count=6&hide=Jupyter,Text,Other,Git%20Config,RPMSpec,Groovy,Properties)
+---
 
-<!--[![Monomux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Monomux&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
+## 📈 Language Statistics
 
-<!-- ###  -->
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=okotohime\&layout=compact\&theme=cobalt\&count_private=true\&langs_count=10)
+
+---
+
+<details>
+<summary><b>⌨️ Coding Activity (Last Year)</b></summary>
+
+<br>
+
+![OKOtohime's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=okotohime\&theme=cobalt\&range=last_year\&layout=compact\&langs_count=6\&hide=Jupyter,Text,Other,Git%20Config,RPMSpec,Groovy,Properties)
+
+</details>
+
+---
+
+<p align="center">
+  <i>Building things with Rust, C++, and Linux.</i>
+</p>
