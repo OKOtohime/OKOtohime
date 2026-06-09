@@ -46,5 +46,5 @@ I'm **OKOtohime**.
 ---
 
 <p align="center">
-  <i>Building things with Rust, C++, and Linux.</i>
+  <i>KO stands for Kanpukuguu Otohime, an character in <a href="https://en.touhouwiki.net/wiki/Marine_Benefit">Touhou Kaikeidou ~ Marine Benefit</a>.</i>
 </p>
